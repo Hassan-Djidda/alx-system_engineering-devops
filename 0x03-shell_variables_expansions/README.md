@@ -1,0 +1,1 @@
+project shell init , variables and expansion
